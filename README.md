@@ -1,11 +1,4 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Aditya%20Raj%20Singh&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=AI%20%26%20ML%20Engineer%20%7C%20LLM%20Builder%20%7C%20B.Tech%20%2726&descAlignY=58&descSize=18&descColor=a78bfa)
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Aditya%20Raj%20Singh&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=AI%20%26%20ML%20Engineer%20%7C%20LLM%20Builder%20%7C%20B.Tech%20%2726&descAlignY=58&descSize=18&descColor=a78bfa"/>
-
-</div>
-
----
 
 <div align="center">
 
@@ -18,15 +11,15 @@
 
 ---
 
-##  About Me
+## About Me
 
 ```python
-    AdityaRajSingh:
+class AdityaRajSingh:
     role       = "AI & ML Engineer | Frontend Developer"
     education  = "B.Tech Electronics System Engineering @ NIELIT Aurangabad (2026)"
     cgpa       = 8.2
     location   = "Aurangabad, India"
-    
+
     focus      = ["LLMs & RAG Systems", "Deep Learning", "Computer Vision"]
     currently  = "Building ARIA — an offline RAG chatbot powered by Llama + FAISS"
     open_to    = ["AI/ML Internships", "Full-time Roles", "Research Collaborations"]
@@ -40,7 +33,7 @@
 <tr>
 <td width="50%">
 
-###  EduBot: Offline RAG-Powered Campus Query System    
+###  EduBot: Offline RAG-Powered Campus Query System
 > Offline LLM chatbot for NIELIT Buxur using **Llama + FAISS + FastAPI**
 
 - Semantic search over 500+ PDF/CSV docs
@@ -54,7 +47,7 @@
 </td>
 <td width="50%">
 
-###  IndustrIQ: DNN-Based Industrial Power Consumption Optimizer 
+###  IndustrIQ: DNN-Based Industrial Power Consumption Optimizer
 > DNN framework to forecast & optimize industrial power consumption
 
 - Multi-layer ANN on sensor/environmental data
@@ -84,7 +77,7 @@
 </td>
 <td width="50%">
 
-### 📊 Trader Behavior Analysis
+###  Trader Behavior Analysis
 > Data-driven analysis of trader performance vs Bitcoin Fear/Greed Index
 
 - Behavioral segmentation & strategy insights
@@ -118,7 +111,7 @@
 
 **GenAI & LLMs**
 
-![LangChain](https://img.shields.io/badge/RAG_Pipeline-7C3AED?style=for-the-badge&logo=chainlink&logoColor=white)
+![RAG](https://img.shields.io/badge/RAG_Pipeline-7C3AED?style=for-the-badge&logo=chainlink&logoColor=white)
 ![FAISS](https://img.shields.io/badge/FAISS_Vector_DB-00897B?style=for-the-badge&logo=databricks&logoColor=white)
 ![OpenAI](https://img.shields.io/badge/OpenAI_GPT_API-412991?style=for-the-badge&logo=openai&logoColor=white)
 ![Ollama](https://img.shields.io/badge/Llama_via_Ollama-000000?style=for-the-badge&logo=meta&logoColor=white)
@@ -133,7 +126,7 @@
 
 ---
 
-## 📈 GitHub Stats
+##  GitHub Stats
 
 <div align="center">
 
@@ -150,7 +143,7 @@
 
 ---
 
-##  Certifications
+## 🏅 Certifications
 
 - 🎓 **Machine Learning, NLP & Deep Learning** — Udemy
 - 🎓 **MySQL: Complete Guide for Developers** — Udemy
@@ -159,9 +152,4 @@
 
 ---
 
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=100&section=footer"/>
-
-</div>
-
+![footer](https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=100&section=footer)
