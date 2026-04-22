@@ -11,7 +11,7 @@
 
 ---
 
-## About Me
+##  About Me
 
 ```python
 class AdityaRajSingh:
@@ -34,7 +34,7 @@ class AdityaRajSingh:
 <td width="50%">
 
 ###  EduBot: Offline RAG-Powered Campus Query System
-> Offline LLM chatbot for NIELIT Buxur using **Llama + FAISS + FastAPI**
+> Offline LLM chatbot for NIELIT Buxur using **Llama + ChromaDB + FastAPI**
 
 - Semantic search over 500+ PDF/CSV docs
 - Zero external API dependency
@@ -130,12 +130,9 @@ class AdityaRajSingh:
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=aditya-raj-singh-619&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aditya-raj-singh-619&layout=compact&theme=tokyonight&hide_border=true"/>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=aditya-raj-singh-619&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
 
-</div>
-
-<div align="center">
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aditya-raj-singh-619&layout=compact&theme=tokyonight&hide_border=true)
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=aditya-raj-singh-619&theme=tokyonight&hide_border=true)
 
