@@ -2,13 +2,11 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,12,20&height=180&section=header&text=Aditya%20Raj%20Singh&fontSize=40&fontColor=ffffff&fontAlignY=38&desc=Machine%20Learning%20Engineer%20%7C%20Applied%20AI%20%7C%20RAG%20Systems&descColor=a0aec0&descSize=14&descAlignY=58" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&pause=1200&color=58A6FF&center=true&vCenter=true&width=480&lines=Building+RAG+pipelines+and+LLM+applications;Computer+Vision+%7C+Deep+Learning+%7C+MLOps;Turning+notebooks+into+production+systems;Open+to+collaborations+and+opportunities" alt="Typing SVG" />
-
 </div>
 
 <br/>
 
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aditya-raj-singh-619&layout=compact&theme=github_dark&hide_border=true&langs_count=6&cache_seconds=1800" width="38%"/>
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aditya-raj-singh-619&layout=compact&theme=github_dark&hide_border=true&langs_count=6" width="38%"/>
 
 ### About
 
@@ -113,8 +111,8 @@ Machine learning applied to IoT sensor streams for energy consumption monitoring
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=aditya-raj-singh-619&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github&cache_seconds=1800" width="49%"/>
-<img src="https://nirzak-streak-stats.vercel.app/?user=aditya-raj-singh-619&theme=github-dark-blue&hide_border=true" width="49%"/>
+<img src="https://streak-stats.demolab.com?user=aditya-raj-singh-619&theme=github-dark-blue&hide_border=true&date_format=j%20M%5B%20Y%5D" width="49%"/>
+<img src="https://github-readme-stats.vercel.app/api?username=aditya-raj-singh-619&show_icons=true&theme=github_dark&hide_border=true&count_private=true" width="49%"/>
 
 <br/><br/>
 
