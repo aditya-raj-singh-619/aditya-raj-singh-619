@@ -15,7 +15,7 @@ Machine Learning Engineer focused on applied AI — building systems that work i
 - Working on **RAG systems** with LangChain and vector databases
 - Background in computer vision, energy optimization, and behavioral analytics
 - Interested in projects where ML creates measurable real-world impact
-- Based in **Ranchi, Jharkhand, India**
+- Based in **Varanasi, India**
 
 <br clear="right"/>
 
